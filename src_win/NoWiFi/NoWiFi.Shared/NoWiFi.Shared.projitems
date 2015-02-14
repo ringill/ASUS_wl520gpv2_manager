@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>897aeec1-8117-4b40-a653-9e856f5026d2</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)css\default.css" />
+    <Content Include="$(MSBuildThisFileDirectory)css\ui-themed.css" />
+    <Content Include="$(MSBuildThisFileDirectory)css\ui-themed.theme-dark.css" />
+    <Content Include="$(MSBuildThisFileDirectory)css\ui-themed.theme-light.css" />
+    <Content Include="$(MSBuildThisFileDirectory)default.html" />
+    <Content Include="$(MSBuildThisFileDirectory)html\footer.html" />
+    <Content Include="$(MSBuildThisFileDirectory)images\footer.png" />
+    <Content Include="$(MSBuildThisFileDirectory)js\default.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\model\wifiElement.js" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\jQuery\jquery-2.1.3.intellisense.js" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\jQuery\jquery-2.1.3.js" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\jQuery\jquery-2.1.3.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\jQuery\jquery-2.1.3.min.map" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\css\ui-dark.css" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\css\ui-dark.min.css" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\css\ui-light.css" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\css\ui-light.min.css" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\fonts\Symbols.ttf" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\js\base.js" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\js\base.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\js\base.min.js.map" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\js\en-US\ui.strings.js" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\js\ui.js" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\js\ui.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\js\ui.min.js.map" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\js\WinJS.js" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\js\WinJS.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\js\WinJS.min.js.map" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\License.txt" />
+    <Content Include="$(MSBuildThisFileDirectory)vendor\WinJS\README.md" />
+  </ItemGroup>
+</Project>
