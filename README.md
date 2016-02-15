@@ -1,5 +1,6 @@
-# [JavaScript; WinJS] Windows Phone 8 application
+#Windows Phone 8 application
 
+=JavaScript; WinJS
 
 Задача - изменение настроек роутера с целью ограничения доступа к Интернету конкретных устройств (телефона и планшета).
 
